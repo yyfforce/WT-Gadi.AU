@@ -10,7 +10,7 @@ module load openmpi/4.1.7
 
 ```
 
-ARPACK is supported through adding this in Makefile
+ARPACK is supported through adding this in Makefile (already added)
 ```shell
 # ARPACK LIBRARY
 ARPACK=/apps/arpack-ng/3.7.0/lib/Intel/libarpack.a
