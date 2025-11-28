@@ -1,6 +1,6 @@
 # WT-Gadi.AU
 
-Compiling WannierTools 2.7.9 on Gadi, NCI, AU
+Compiling WannierTools 2.7.0 on Gadi, NCI, AU
 
 These modules need to be loaded
 ```shell
